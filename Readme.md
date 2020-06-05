@@ -131,3 +131,7 @@ After beta featuremole.com will earn on selling worms to users. Featuremole.com 
 After beta user can transfer the worms to other user. If he wants to pay you for those worms with cash or anything else you can do it without featuremole.com permission.
 
 Featuremole.com doesn't want to control the worms flow and will not intervene at any time to increase or decrease value of worms. Price of 1 worm can fluctuate over the time featuremole.com exist.
+
+## Technical details:
+
+[Schema](https://app.graphqleditor.com/a-team/feature-mole?visibleMenu=code)
