@@ -135,3 +135,4 @@ Featuremole.com doesn't want to control the worms flow and will not intervene at
 ## Technical details:
 
 [Schema](https://app.graphqleditor.com/a-team/feature-mole?visibleMenu=code)
+[Docs](https://aexol.github.io/featuremole.com/Query.html)
